@@ -16,7 +16,7 @@ Subscribe on my Youtube Channel for Tutorials https://www.youtube.com/@ankursing
 
 3. Set OPENAI_API_KEY environment variable with your openai key
 
-4. Run "python jsonchat.py"
+4. Run "python json-chat.py"
 
 5. Change url and query in code if you want to try with any other content
 
